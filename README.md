@@ -1,6 +1,12 @@
 # Welcome to KwikGo
 
-Keep punchin'! - A Micro service based Kwik-E-Mart implemented in Golang
+**A Micro service based Kwik-E-Mart implemented in Golang?**
+
+> Keep punchin'!
+
+*Sylvester "The SLY" Stallone on Twitter, January 28, 2020*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes I wake up I feel like doing nothing. Just relaxing. Just very true. If anyone says different, they’re lying - it’s human nature. Then you roll over, get a little mad at yourself, and realize to get anywhere you’ve got to make a deposit in the GOAL BANK. <a href="https://twitter.com/hashtag/KeepPunching?src=hash&amp;ref_src=twsrc%5Etfw">#KeepPunching</a> <a href="https://t.co/HWQofsol82">pic.twitter.com/HWQofsol82</a></p>&mdash; Sylvester Stallone (@TheSlyStallone) <a href="https://twitter.com/TheSlyStallone/status/1222287629644754944?ref_src=twsrc%5Etfw">January 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # philosophy???
 
