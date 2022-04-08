@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to KwikGo
 
-You can use the [editor on GitHub](https://github.com/schnoddelbotz/www_kwikgo_net/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Keep punchin'! - A Micro service based Kwik-E-Mart implemented in Golang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# philosophy???
 
-### Markdown
+- micro-service based architecture, aiming high scalability and fault tolerance
+- zero-polling, [event-driven](https://www.youtube.com/watch?v=STKCRSUsyP0) architecture
+- deployable on a single, bare-metal node, or using Docker or using AWS
+- fully embraces infrastructure-as-code, CI and CD
+- convention over configuration to minimize administrative overhead
+- shop customization and translations via YAML in [kwikgo-data](../kwikgo-data)
+- rely on business proven, stable architecture components
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## third-party components
 
-```markdown
-Syntax highlighted code block
+- [camunda](https://camunda.org/) for BPMN
+- [Apache Flink](https://flink.apache.org/) for real-time analytics
+- ...
 
-# Header 1
-## Header 2
-### Header 3
+Transmission interrupted. Come again? HELLO?
 
-- Bulleted
-- List
+# KwikGo services
 
-1. Numbered
-2. List
+## Under construction 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schnoddelbotz/www_kwikgo_net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Check back, say, daily! Best a 8 AM CEST. See you soon! PEACE.
