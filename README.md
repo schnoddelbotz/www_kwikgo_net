@@ -2,6 +2,30 @@
 
 **A Micro service based Kwik-E-Mart implemented in Golang?**
 
+That would be exciting! Read below - BUT FIRST - Free Julian Assange!
+
+# Julian Assange
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-qsBMTRfLc?start=147" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```
+Julian Paul Assange (/əˈsɑːnʒ/; né Hawkins; born 3 July 1971) is an Australian editor, publisher and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Baghdad airstrike Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
+```
+
+**Germany is in total outrage about his illegal imprisonment**
+
+We will stand together for free speech - Germans have VERY BAD historic memories:
+
+- Bücherverbrennungen
+- Propaganda
+- Kolonialisierung
+- Deforestation of rain forest via EU 
+- CUMEX 
+- Politicians not caring about the above
+
+Well - Read more about the [Julian Assange Global FreeSpeech Scandal](https://julian-assange.info).
+Free Julian Assange now - by supporting any effort to spread HIS story. Thank you!
+
 > Keep punchin'!
 
 *Sylvester "The SLY" Stallone on Twitter, January 28, 2020*
