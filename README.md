@@ -8,9 +8,8 @@ That would be exciting! Read below - BUT FIRST - Free Julian Assange!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-qsBMTRfLc?start=147" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
-Julian Paul Assange (/əˈsɑːnʒ/; né Hawkins; born 3 July 1971) is an Australian editor, publisher and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Baghdad airstrike Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
-```
+
+> Julian Paul Assange (/əˈsɑːnʒ/; né Hawkins; born 3 July 1971) is an Australian editor, publisher and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Baghdad airstrike Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
 
 **Germany is in total outrage about his illegal imprisonment**
 
@@ -41,6 +40,9 @@ Free Julian Assange now - by supporting any effort to spread HIS story. Thank yo
 - convention over configuration to minimize administrative overhead
 - shop customization and translations via YAML in [kwikgo-data](../kwikgo-data)
 - rely on business proven, stable architecture components
+
+- Client SPA EmberJS: kwikgo's [leftys-ui #FreeAssange Free Julian Assange now](https://kwikgo.github.io/leftys-ui/)
+- The go thing - tbd.
 
 ## third-party components
 
